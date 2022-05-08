@@ -1,4 +1,0 @@
-# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
-ports:
-  - port: 44444
-    onOpen: open-preview
